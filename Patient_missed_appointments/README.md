@@ -1,9 +1,7 @@
 # Patient Missed Appointments on a Podiatry Clinical Network
 
-A network of clinics specialized in Podiatry (medicine field associated with foot, ankle, and lower ex-
-tremity) wishes to decrease the rate of missed appointments on its clinic locations. To make strategic
-decisions, the group needs to know which are the clinics in which this issue is more problematic and
-why patients are missing the appointments.
+A network of clinics specializing in Podiatry (medicine field associated with foot, ankle, and lower extremity) wishes to decrease the rate of missed appointments at its clinic locations. To make strategic decisions, the group needs to know why patients are missing appointments and draw suggestions to solve that problem. 
+
 The possible outcomes for appointments are:
 
 - Completed
