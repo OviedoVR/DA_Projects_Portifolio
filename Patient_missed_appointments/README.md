@@ -9,6 +9,8 @@ The possible outcomes for appointments are:
 - Canceled
 - No-Show (patient did not appear and not contacted the clinic
 
+The main findings and conclusions were posted on [Medium](https://medium.com/@vo.freelancer5/exploring-patient-appointments-on-a-podiatry-clinical-network-62beef32f752)
+
 # Solution planning
 
 ## Planning of final product
