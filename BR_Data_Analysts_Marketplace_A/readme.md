@@ -6,3 +6,5 @@ Such question was answered with real data (a sample of 101 active Brazilian free
 
  * The earnings data are recent (in a yearly basis) - I do not have information about freelancing time on the marketplace;
  * The Data Analyst sample uses the marketplace for extra-income purposes.
+
+<img width="650" alt="CRISP-DM Methodology" src="https://github.com/OviedoVR/Data_Analysis_ProjetosDeEstudo/blob/main/Diabetes_Prediction/CRISP_DM.png">
