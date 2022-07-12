@@ -8,6 +8,6 @@ The project depolyed a data-driven solution for analyzing and getting opportunit
 
 The active prices and indicator is updated on a daily basis. Hence, the FIIs solution could be used to assist in strategic investment decisions.
 
-FIIs data-driven solution: [pyFII](https://youtu.be/UIv6ENZsVc0)
+FIIs data-driven solution: [DataFII](https://youtu.be/UIv6ENZsVc0)
 
 <img width="1000" alt="CRISP-DM Methodology" src="Solution_Pipeline_h.png">
