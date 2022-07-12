@@ -10,4 +10,4 @@ The active prices and indicator is updated on a daily basis. Hence, the FIIs sol
 
 FIIs data-driven solution: [pyFII](https://share.streamlit.io/)
 
-<img width="450" alt="CRISP-DM Methodology" src="Solution_Pipeline_h.png">
+<img width="1000" alt="CRISP-DM Methodology" src="Solution_Pipeline_h.png">
