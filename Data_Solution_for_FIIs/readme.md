@@ -10,6 +10,6 @@ The active prices and indicator is updated on a daily basis. Hence, the FIIs sol
 
 FIIs data-driven solution: [DataFII](https://oviedovr-pyfii-deploy-datafii-yujp93.streamlitapp.com/)
 
-Video explanation: [A brief talk](https://www.youtube.com/)
+Video explanation: [A brief talk on Youtube](https://youtu.be/22BFRmBVGeY)
 
 <img width="1000" alt="CRISP-DM Methodology" src="Solution_Pipeline_h.png">
